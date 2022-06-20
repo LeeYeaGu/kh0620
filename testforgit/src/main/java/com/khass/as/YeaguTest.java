@@ -1,6 +1,6 @@
 package com.khass.as;
 
-public class yeaguTest {
+public class YeaguTest {
 	
 	public static void main(String[] args) {
 		
